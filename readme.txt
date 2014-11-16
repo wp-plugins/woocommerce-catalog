@@ -2,7 +2,7 @@
 Tags: catalog mode, woocommerce, eshop
 Requires at least: 3.1
 Tested up to: 4.0
-Stable tag: 3.0.2
+Stable tag: 1.0
 License: GPLv2 or later
 
 Switch to catalog mode with one click (Woocommerce).
