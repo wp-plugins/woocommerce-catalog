@@ -31,7 +31,7 @@ Upload the plugin to your blog, Activate it, then go to settings page and play w
 
 == Frequently Asked Questions ==
 
-= Where are the setting of plugin? =
+= Where are the settings of plugin? =
 When you install and activate the plugin you will find under the settings section of wordpress the option "Woocommerce Catalog Mode"
 
 = Can I add read more button which will redirect to product details? =
