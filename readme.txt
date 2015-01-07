@@ -1,7 +1,7 @@
 === Woocommerce Catalog ===
-Tags: catalog mode, woocommerce, eshop
+Tags: catalog mode, catalogue mode, woocommerce, ecommerce, eshop, remove price, remove add to cart
 Requires at least: 3.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -17,6 +17,8 @@ This plugin changes your woocommerce e-shop to catalog only shop (without add to
 * Custom button instead of add to cart.
 * Customize button with your colors.
 * Remove price from product loop.
+* Apply catalog settings in certain categories.
+* Choose the group you want to apply catalog settings (registered, no registered users).
 
 == Screenshots ==
 
@@ -40,3 +42,8 @@ Yes you can. There is an option in settings page.
 = How do I change the colours and things? =
 You can style the custom button colors text etc... Use the plugin settings page. 
 
+== Changelog ==
+= 1.1 =
+* Apply catalog settings in certain categories.
+* Choose the group you want to apply catalog settings (registered, no registered users).
+* Bug Fixes.
