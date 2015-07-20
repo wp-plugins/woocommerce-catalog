@@ -1,9 +1,9 @@
 === Woocommerce Catalog ===
 Tags: catalog mode, catalogue mode, woocommerce, ecommerce, eshop, remove price, remove add to cart
 Requires at least: 3.1
-Tested up to: 4.1
+Tested up to: 4.2.2
 Donate link:  https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LL4SJ52RDWDDW&lc=GR&item_name=Woocommerce%20Catalog%20Mode&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 
 Switch to catalog mode with one click (Woocommerce).
